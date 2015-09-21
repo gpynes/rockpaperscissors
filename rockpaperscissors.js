@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////
-/*   Provided Code - Please Don't Edit   */
+/*   Provided Code - Please Don't Edit        */
 ////////////////////////////////////////////////
 
 function playGame()
@@ -121,7 +121,7 @@ function playToFive()
          }
          else if (whoWins == "tie")
          {
-
+            console.log("It's a tie!");
          }
          else
          {
